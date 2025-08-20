@@ -6,7 +6,7 @@ Welcome to my digital space! I am a passionate software engineer and tech enthus
 
 ## 🌐 Socials:
 
-My Portfolio : https://odyshbayeh.github.io/
+My Portfolio : https://odyshbayeh.github.io/portfolio/
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/odyshbayeh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/odyshbayeh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ody-shbayeh-080833311)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:odyshbayeh41@gmail.com) 
