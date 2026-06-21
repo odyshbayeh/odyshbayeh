@@ -20,6 +20,16 @@ My Portfolio : https://odyshbayeh.github.io/portfolio/
 ![](https://nirzak-streak-stats.vercel.app/?user=odyshbayeh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=odyshbayeh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+## 🏆 GitHub Trophies
+![](https://trophygithubreadmelang.cybee.dpdns.org/?username=odyshbayeh&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Stars,Followers,Commits,Issues,PullRequest,Repositories)
+
+<h2 align="center">🔥 GitHub Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=odyshbayeh&theme=radical&hide_border=false" />
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=odyshbayeh&icon=0&color=0)](https://visitcount.itsvg.in)
 
